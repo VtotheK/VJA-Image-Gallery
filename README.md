@@ -2,7 +2,7 @@
 
 ![vja-imagegallery](/docs/img/vja-image-gallery-header.png)
 
-Student project. Made in collaboration with [AndymcCone](https://github.com/AndymcCone) and [superj4mes](https://github.com/superj4mes).
+Student Django project. Made in collaboration with [AndymcCone](https://github.com/AndymcCone) and [superj4mes](https://github.com/superj4mes). 
 
 ## Features
 
