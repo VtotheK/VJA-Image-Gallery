@@ -7,7 +7,6 @@ Student Django project. Made in collaboration with [AndymcCone](https://github.c
 Credentials for test user:
 
 **Username**: TestUser
-
 **Password**: VJA1mageG4llery
 
 Test user can't add, remove or update galleries.
