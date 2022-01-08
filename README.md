@@ -5,7 +5,7 @@
 Student Django project. Made in collaboration with [AndymcCone](https://github.com/AndymcCone) and [superj4mes](https://github.com/superj4mes). Hosted @Azure, [Link to site](http://vja-imagegallery.eastus.cloudapp.azure.com/)
 
 Credentials for test user:
-**Username**: TestUser 
+**Username**: TestUser &nbsp;
 **Password**: VJA1mageG4llery
 
 Test user can't add, remove or update galleries.
